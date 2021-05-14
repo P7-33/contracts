@@ -1,5 +1,5 @@
 {
-  "name": "enjinContracts",
+  ""name"": "enjinContracts",
   "version": "0.2.1",
   "author": "Vanbex",
   "engines": {
@@ -25,4 +25,5 @@
     "chai-bignumber": "^2.0.1",
     "web3_extended": "^1.0.0"
   }
+ }
 }
